@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 ,kdir -m 751 my_dir

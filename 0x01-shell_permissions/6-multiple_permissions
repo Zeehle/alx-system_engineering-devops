@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 chm0od u+x,g+x,o+r hello
